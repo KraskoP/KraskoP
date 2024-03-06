@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KraskoP
 - 
-- 👀 I’m interested in learning GIT
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in **learning, technology, automation...**
+- 🌱 I’m currently learning Docker and K8s
+- :bulb: 
 
 
 <!---
